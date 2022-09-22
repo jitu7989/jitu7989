@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitendra Choudhary</h1>
-<h3 align="center">A passionate Back-end developer from India</h3>
+<h3 align="center">Skilled back-end developer and quick learner who possesses the ability to adapt with new environments quickly. Looking for a challenging role in industry to maximize my potential and to acquire experience in the domain.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitu7989&label=Profile%20views&color=0e75b6&style=flat" alt="jitu7989" /> </p>
 
