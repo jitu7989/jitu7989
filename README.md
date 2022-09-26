@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jitendra-choudhary-5694b2227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendra-choudhary-5694b2227/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jitendra-choudhary-5694b2227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jitendra-choudhary-5694b2227/" height="30" width="40" /></a>
   <a href="https://www.interviewbit.com/profile/jitendra-choudhary_548" target="blank"><img align="center" src="https://assets.interviewbit.com/assets/ibpp/brand-5c6255a15a1b1307a1b8a2bf0bcb149b1ff9513ab2854c7d391b3faf5f33848f.svg.gz" alt="I" height="30" width="120" /></a>
 </p>
 
