@@ -25,7 +25,10 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,idea,java,mysql,spring,maven,hibernate,git,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql,spring,hibernate)](https://skillicons.dev)
+
+# 🛠️ Tools
+[![My Skills](https://skillicons.dev/icons?i=idea,maven,git,netlify,vscode)](https://skillicons.dev)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitu7989&show_icons=true&locale=en" alt="jitu7989" /></p>
 
