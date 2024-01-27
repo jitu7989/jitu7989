@@ -25,7 +25,7 @@
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql,spring,hibernate,docker,aws,kafka,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,mysql,spring,hibernate,docker,aws,kafka)](https://skillicons.dev)
 
 # 🛠️ Tools
 [![My Skills](https://skillicons.dev/icons?i=maven,git,netlify,idea,vscode,eclipse,postman,linux,bash,jenkins)](https://skillicons.dev)
