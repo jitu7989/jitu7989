@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jitu7989" alt="jitu7989" /></a> </p>
 
-- 🔭 I’m currently Student at **Masai School**
-
 - 👯 I’m looking to collaborate on **interesting projects**
 
 - 👨‍💻 All of my projects are available at [https://jitu7989.github.io/Jitendra-Choudhary.github.io/](https://jitu7989.github.io/Jitendra-Choudhary.github.io/)
